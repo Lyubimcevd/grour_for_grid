@@ -1,4 +1,5 @@
 PUBLIC id_family
 id_family = 1293
+nom_ch = ''
 DO obiavlenia
 DO FORM test_form
